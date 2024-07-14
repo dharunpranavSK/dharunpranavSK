@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dharun Pranav S K</h1>
-<h3 align="center">A passionate C developer from India</h3>
+<h3 align="center">A passionate C Programmer from India</h3>
 
 - 🌱 I’m currently learning **C, Java, Problem-solving**
 
@@ -7,11 +7,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dharunpranavsk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dharunpranavsk/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/dharun.pranav.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/dharun.pranav.3" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/dharun_pranav/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/dharun_pranav/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/dharunpranavsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/dharunpranavsk" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/dharunpranavsk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/dharunpranavsk/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dharunpranavsk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dharunpranavsk/" height="30" width="40" /></a>
+<a href="https://fb.com/dharun.pranav.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dharun.pranav.3" height="30" width="40" /></a>
+<a href="https://instagram.com/dharun_pranav/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dharun_pranav/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/dharunpranavsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="profile/dharunpranavsk" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/u/dharunpranavsk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="u/dharunpranavsk/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
