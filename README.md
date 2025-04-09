@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dharun Pranav S K</h1>
 <h3 align="center">A passionate C Programmer from India</h3>
 
-- 🌱 I’m currently learning **C, Java, Problem-solving**
+- 🌱 I’m currently learning **Java, Problem-solving**
 
 - 📫 How to reach me **dharunpranavsk@gmail.com**
 
